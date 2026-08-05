@@ -1,4 +1,4 @@
-public class pgr1 {
+public class pratice1 {
     public static void main(String[] args) {
         int a = 25;
         if (a > 0) {
